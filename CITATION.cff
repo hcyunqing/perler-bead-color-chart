@@ -6,7 +6,7 @@ message: >-
 type: dataset
 authors:
   - name: 豆画 (Douhua)
-    website: 'https://douhua.7a.ink'
+    website: 'https://idouhua.cn'
 version: 1.0.0
 date-released: '2026-11-13'
 license: CC-BY-4.0

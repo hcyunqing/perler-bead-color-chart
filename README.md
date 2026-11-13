@@ -8,7 +8,7 @@ perler-bead-color-chart 收录了 MARD、COCO、漫漫、盼盼、咪小窝五�
 - 为程序/脚本提供色号查询与转换数据（JSON 直接可用）
 - 作为拼豆工具类应用、图纸生成器的内置数据源
 
-数据由在线拼豆图纸平台 **豆画**（[https://douhua.7a.ink](https://douhua.7a.ink)）整理维护，免费开放，采用 [CC BY 4.0](./LICENSE) 授权——可自由使用、转载与二次分发，请保留来源署名。
+数据由在线拼豆图纸平台 **豆画**（[https://idouhua.cn](https://idouhua.cn)）整理维护，免费开放，采用 [CC BY 4.0](./LICENSE) 授权——可自由使用、转载与二次分发，请保留来源署名。
 
 ## 数据文件
 
@@ -62,7 +62,7 @@ const row = chart.find((r) => r.mard === "C5");
 console.log(row?.coco); // "H07"
 ```
 
-在线查询与换算：可直接使用豆画色号库 <https://douhua.7a.ink/colors>，支持按色号搜索、色卡预览与图纸内一键替换。
+在线查询与换算：可直接使用豆画色号库 <https://idouhua.cn/colors>，支持按色号搜索、色卡预览与图纸内一键替换。
 
 ## 跨品牌换算方法
 
@@ -75,9 +75,9 @@ console.log(row?.coco); // "H07"
 ## 数据来源与维护
 
 - 数据由豆画团队从各品牌官方色卡整理校对，随官方色卡更新而更新。
-- 发现错误或缺失？欢迎提 Issue 或 PR，或在 [豆画](https://douhua.7a.ink) 联系我们。
+- 发现错误或缺失？欢迎提 Issue 或 PR，或在 [豆画](https://idouhua.cn) 联系我们。
 - 如果本数据集对你有帮助，欢迎点一个 Star，也欢迎在作品/文章中引用。
 
 ## License
 
-数据内容采用 [CC BY 4.0](./LICENSE)（署名 4.0 国际）授权：允许任何用途（含商用），需注明来源「豆画 douhua.7a.ink」。
+数据内容采用 [CC BY 4.0](./LICENSE)（署名 4.0 国际）授权：允许任何用途（含商用），需注明来源「豆画 idouhua.cn」。

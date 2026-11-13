@@ -1,0 +1,2330 @@
+[
+  {
+    "hex": "#000000",
+    "mard": "H7",
+    "coco": "B09",
+    "manman": "F7",
+    "panpan": "14",
+    "mixiaowo": "14"
+  },
+  {
+    "hex": "#01ACEB",
+    "mard": "C5",
+    "coco": "H07",
+    "manman": "D7",
+    "panpan": "34",
+    "mixiaowo": "34"
+  },
+  {
+    "hex": "#04D1F6",
+    "mard": "C17",
+    "coco": "H19",
+    "manman": "D36",
+    "panpan": "163",
+    "mixiaowo": "156"
+  },
+  {
+    "hex": "#0B3C43",
+    "mard": "B22",
+    "coco": "G08",
+    "manman": "DH7",
+    "panpan": "206",
+    "mixiaowo": "193"
+  },
+  {
+    "hex": "#0F54C0",
+    "mard": "C8",
+    "coco": "H14",
+    "manman": "D9",
+    "panpan": "52",
+    "mixiaowo": "71"
+  },
+  {
+    "hex": "#1557A8",
+    "mard": "C16",
+    "coco": "H18",
+    "manman": "D32",
+    "panpan": "149",
+    "mixiaowo": "149"
+  },
+  {
+    "hex": "#156A6B",
+    "mard": "B21",
+    "coco": "G07",
+    "manman": "DH2",
+    "panpan": "207",
+    "mixiaowo": "194"
+  },
+  {
+    "hex": "#166F41",
+    "mard": "B12",
+    "coco": "F12",
+    "manman": "C13",
+    "panpan": "106",
+    "mixiaowo": "111"
+  },
+  {
+    "hex": "#176DAF",
+    "mard": "C20",
+    "coco": "H17",
+    "manman": "DH14",
+    "panpan": "197",
+    "mixiaowo": "197"
+  },
+  {
+    "hex": "#182A84",
+    "mard": "D4",
+    "coco": "H20",
+    "manman": "D11",
+    "panpan": "75",
+    "mixiaowo": "80"
+  },
+  {
+    "hex": "#1887A2",
+    "mard": "C19",
+    "coco": "H12",
+    "manman": "DH9",
+    "panpan": "202",
+    "mixiaowo": "202"
+  },
+  {
+    "hex": "#19779D",
+    "mard": "R7",
+    "coco": "L07",
+    "manman": "T5",
+    "panpan": "37",
+    "mixiaowo": "37"
+  },
+  {
+    "hex": "#1A60C3",
+    "mard": "R8",
+    "coco": "L08",
+    "manman": "T3",
+    "panpan": "68",
+    "mixiaowo": "54"
+  },
+  {
+    "hex": "#1C334D",
+    "mard": "C12",
+    "coco": "H23",
+    "manman": "D26",
+    "panpan": "120",
+    "mixiaowo": "120"
+  },
+  {
+    "hex": "#1C9C4F",
+    "mard": "B8",
+    "coco": "F11",
+    "manman": "C5",
+    "panpan": "10",
+    "mixiaowo": "10"
+  },
+  {
+    "hex": "#1D1414",
+    "mard": "H16",
+    "coco": "B08",
+    "manman": "DH11",
+    "panpan": "200",
+    "mixiaowo": "200"
+  },
+  {
+    "hex": "#1D3344",
+    "mard": "C18",
+    "coco": "H24",
+    "manman": "DH6",
+    "panpan": "196",
+    "mixiaowo": "196"
+  },
+  {
+    "hex": "#22C4C6",
+    "mard": "C15",
+    "coco": "H11",
+    "manman": "D31",
+    "panpan": "143",
+    "mixiaowo": "132"
+  },
+  {
+    "hex": "#238891",
+    "mard": "R6",
+    "coco": "L06",
+    "manman": "T4",
+    "panpan": "69",
+    "mixiaowo": "55"
+  },
+  {
+    "hex": "#24B88C",
+    "mard": "B19",
+    "coco": "G06",
+    "manman": "DH15",
+    "panpan": "191",
+    "mixiaowo": "174"
+  },
+  {
+    "hex": "#27523A",
+    "mard": "B9",
+    "coco": "F16",
+    "manman": "C6",
+    "panpan": "79",
+    "mixiaowo": "84"
+  },
+  {
+    "hex": "#28DDDE",
+    "mard": "C11",
+    "coco": "H10",
+    "manman": "D28",
+    "panpan": "122",
+    "mixiaowo": "113"
+  },
+  {
+    "hex": "#2E5132",
+    "mard": "B15",
+    "coco": "F15",
+    "manman": "C16",
+    "panpan": "130",
+    "mixiaowo": "122"
+  },
+  {
+    "hex": "#2F1F90",
+    "mard": "D15",
+    "coco": "H22",
+    "manman": "D18",
+    "panpan": "101",
+    "mixiaowo": "108"
+  },
+  {
+    "hex": "#2F2B2F",
+    "mard": "H6",
+    "coco": "B07",
+    "manman": "F6",
+    "panpan": "51",
+    "mixiaowo": "70"
+  },
+  {
+    "hex": "#2F54AF",
+    "mard": "D3",
+    "coco": "H15",
+    "manman": "D10",
+    "panpan": "8",
+    "mixiaowo": "8"
+  },
+  {
+    "hex": "#303A21",
+    "mard": "B23",
+    "coco": "F17",
+    "manman": "DH12",
+    "panpan": "205",
+    "mixiaowo": "192"
+  },
+  {
+    "hex": "#324BCA",
+    "mard": "C9",
+    "coco": "H16",
+    "manman": "N5",
+    "panpan": "42",
+    "mixiaowo": "42"
+  },
+  {
+    "hex": "#333A95",
+    "mard": "D22",
+    "coco": "H21",
+    "manman": "DH1",
+    "panpan": "198",
+    "mixiaowo": "198"
+  },
+  {
+    "hex": "#337680",
+    "mard": "P14",
+    "coco": "M14",
+    "manman": "P22",
+    "panpan": "183",
+    "mixiaowo": "183"
+  },
+  {
+    "hex": "#34488E",
+    "mard": "C29",
+    "coco": "H32",
+    "manman": "G15",
+    "panpan": "281",
+    "mixiaowo": "266"
+  },
+  {
+    "hex": "#35C75B",
+    "mard": "R5",
+    "coco": "L05",
+    "manman": "N4",
+    "panpan": "23",
+    "mixiaowo": "23"
+  },
+  {
+    "hex": "#35E352",
+    "mard": "B5",
+    "coco": "F10",
+    "manman": "C4",
+    "panpan": "39",
+    "mixiaowo": "39"
+  },
+  {
+    "hex": "#361851",
+    "mard": "D10",
+    "coco": "J19",
+    "manman": "D15",
+    "panpan": "92",
+    "mixiaowo": "91"
+  },
+  {
+    "hex": "#3677D2",
+    "mard": "C7",
+    "coco": "H13",
+    "manman": "D8",
+    "panpan": "9",
+    "mixiaowo": "9"
+  },
+  {
+    "hex": "#3CAED8",
+    "mard": "C26",
+    "coco": "H29",
+    "manman": "R15",
+    "panpan": "265",
+    "mixiaowo": "250"
+  },
+  {
+    "hex": "#3DAF80",
+    "mard": "B7",
+    "coco": "G05",
+    "manman": "C10",
+    "panpan": "44",
+    "mixiaowo": "44"
+  },
+  {
+    "hex": "#3EBCE2",
+    "mard": "C10",
+    "coco": "H09",
+    "manman": "D25",
+    "panpan": "121",
+    "mixiaowo": "130"
+  },
+  {
+    "hex": "#3ECFCA",
+    "mard": "R16",
+    "coco": "S3",
+    "manman": "S3",
+    "panpan": "238",
+    "mixiaowo": "225"
+  },
+  {
+    "hex": "#41CCFF",
+    "mard": "C4",
+    "coco": "H05",
+    "manman": "D3",
+    "panpan": "77",
+    "mixiaowo": "82"
+  },
+  {
+    "hex": "#48464E",
+    "mard": "H5",
+    "coco": "B06",
+    "manman": "F5",
+    "panpan": "45",
+    "mixiaowo": "45"
+  },
+  {
+    "hex": "#494FC7",
+    "mard": "D25",
+    "coco": "J21",
+    "manman": "Q15",
+    "panpan": "249",
+    "mixiaowo": "234"
+  },
+  {
+    "hex": "#4A867A",
+    "mard": "R17",
+    "coco": "S4",
+    "manman": "S5",
+    "panpan": "233",
+    "mixiaowo": "233"
+  },
+  {
+    "hex": "#4E846D",
+    "mard": "B25",
+    "coco": "F18",
+    "manman": "Q13",
+    "panpan": "240",
+    "mixiaowo": "240"
+  },
+  {
+    "hex": "#50AAF0",
+    "mard": "C6",
+    "coco": "H08",
+    "manman": "D4",
+    "panpan": "25",
+    "mixiaowo": "25"
+  },
+  {
+    "hex": "#55514C",
+    "mard": "R13",
+    "coco": "L13",
+    "manman": "-",
+    "panpan": "152",
+    "mixiaowo": "152"
+  },
+  {
+    "hex": "#5A2121",
+    "mard": "F11",
+    "coco": "Z23",
+    "manman": "E16",
+    "panpan": "117",
+    "mixiaowo": "129"
+  },
+  {
+    "hex": "#5D722A",
+    "mard": "B11",
+    "coco": "F14",
+    "manman": "C12",
+    "panpan": "97",
+    "mixiaowo": "99"
+  },
+  {
+    "hex": "#5DE035",
+    "mard": "B4",
+    "coco": "F09",
+    "manman": "C3",
+    "panpan": "66",
+    "mixiaowo": "78"
+  },
+  {
+    "hex": "#5FD0A7",
+    "mard": "P6",
+    "coco": "M06",
+    "manman": "P8",
+    "panpan": "157",
+    "mixiaowo": "65"
+  },
+  {
+    "hex": "#63F347",
+    "mard": "B2",
+    "coco": "F08",
+    "manman": "C2",
+    "panpan": "33",
+    "mixiaowo": "33"
+  },
+  {
+    "hex": "#644749",
+    "mard": "M12",
+    "coco": "Y12",
+    "manman": "YX5",
+    "panpan": "173",
+    "mixiaowo": "173"
+  },
+  {
+    "hex": "#65E2A6",
+    "mard": "B6",
+    "coco": "G04",
+    "manman": "C9",
+    "panpan": "11",
+    "mixiaowo": "11"
+  },
+  {
+    "hex": "#668575",
+    "mard": "P15",
+    "coco": "M15",
+    "manman": "P23",
+    "panpan": "184",
+    "mixiaowo": "184"
+  },
+  {
+    "hex": "#67B4BE",
+    "mard": "C22",
+    "coco": "H25",
+    "manman": "Q11",
+    "panpan": "239",
+    "mixiaowo": "239"
+  },
+  {
+    "hex": "#697D80",
+    "mard": "M3",
+    "coco": "Y03",
+    "manman": "YX2",
+    "panpan": "166",
+    "mixiaowo": "166"
+  },
+  {
+    "hex": "#6C372F",
+    "mard": "R22",
+    "coco": "S9",
+    "manman": "S15",
+    "panpan": "226",
+    "mixiaowo": "226"
+  },
+  {
+    "hex": "#753832",
+    "mard": "G8",
+    "coco": "Z22",
+    "manman": "E8",
+    "panpan": "12",
+    "mixiaowo": "12"
+  },
+  {
+    "hex": "#757D78",
+    "mard": "M15",
+    "coco": "Y15",
+    "manman": "YX7",
+    "panpan": "178",
+    "mixiaowo": "163"
+  },
+  {
+    "hex": "#76CEDE",
+    "mard": "Q5",
+    "coco": "W5",
+    "manman": "W5",
+    "panpan": "108",
+    "mixiaowo": "W5"
+  },
+  {
+    "hex": "#7786E5",
+    "mard": "D24",
+    "coco": "J20",
+    "manman": "Q14",
+    "panpan": "244",
+    "mixiaowo": "244"
+  },
+  {
+    "hex": "#77CEE9",
+    "mard": "R15",
+    "coco": "S2",
+    "manman": "S2",
+    "panpan": "237",
+    "mixiaowo": "224"
+  },
+  {
+    "hex": "#78524B",
+    "mard": "G17",
+    "coco": "Z16",
+    "manman": "E22",
+    "panpan": "144",
+    "mixiaowo": "137"
+  },
+  {
+    "hex": "#7CC4FF",
+    "mard": "C24",
+    "coco": "H27",
+    "manman": "R14",
+    "panpan": "267",
+    "mixiaowo": "252"
+  },
+  {
+    "hex": "#7FCD9D",
+    "mard": "R18",
+    "coco": "S5",
+    "manman": "S4",
+    "panpan": "235",
+    "mixiaowo": "222"
+  },
+  {
+    "hex": "#8490A6",
+    "mard": "ZG5",
+    "coco": "GB5",
+    "manman": "ZG5",
+    "panpan": "258",
+    "mixiaowo": "ZG5"
+  },
+  {
+    "hex": "#858EDD",
+    "mard": "D2",
+    "coco": "J08",
+    "manman": "D6",
+    "panpan": "36",
+    "mixiaowo": "36"
+  },
+  {
+    "hex": "#8854B3",
+    "mard": "D7",
+    "coco": "J15",
+    "manman": "D12",
+    "panpan": "7",
+    "mixiaowo": "7"
+  },
+  {
+    "hex": "#89858C",
+    "mard": "H4",
+    "coco": "B05",
+    "manman": "F4",
+    "panpan": "78",
+    "mixiaowo": "83"
+  },
+  {
+    "hex": "#8A4526",
+    "mard": "F10",
+    "coco": "Z20",
+    "manman": "E15",
+    "panpan": "116",
+    "mixiaowo": "115"
+  },
+  {
+    "hex": "#8AA386",
+    "mard": "M2",
+    "coco": "Y02",
+    "manman": "YX12",
+    "panpan": "172",
+    "mixiaowo": "172"
+  },
+  {
+    "hex": "#8B279B",
+    "mard": "D14",
+    "coco": "J16",
+    "manman": "D22",
+    "panpan": "102",
+    "mixiaowo": "107"
+  },
+  {
+    "hex": "#8BDBFA",
+    "mard": "Y4",
+    "coco": "N04",
+    "manman": "Y4",
+    "panpan": "58",
+    "mixiaowo": "58"
+  },
+  {
+    "hex": "#8D614C",
+    "mard": "G14",
+    "coco": "Z17",
+    "manman": "E14",
+    "panpan": "114",
+    "mixiaowo": "123"
+  },
+  {
+    "hex": "#8D7A35",
+    "mard": "B26",
+    "coco": "F19",
+    "manman": "Q7",
+    "panpan": "248",
+    "mixiaowo": "248"
+  },
+  {
+    "hex": "#937A8D",
+    "mard": "E23",
+    "coco": "K29",
+    "manman": "Q3",
+    "panpan": "250",
+    "mixiaowo": "235"
+  },
+  {
+    "hex": "#943630",
+    "mard": "F6",
+    "coco": "Z21",
+    "manman": "E9",
+    "panpan": "16",
+    "mixiaowo": "16"
+  },
+  {
+    "hex": "#949FA3",
+    "mard": "H20",
+    "coco": "B10",
+    "manman": "Q12",
+    "panpan": "251",
+    "mixiaowo": "236"
+  },
+  {
+    "hex": "#94BFE2",
+    "mard": "ZG6",
+    "coco": "GB6",
+    "manman": "ZG6",
+    "panpan": "259",
+    "mixiaowo": "ZG6"
+  },
+  {
+    "hex": "#95D3C2",
+    "mard": "B10",
+    "coco": "G03",
+    "manman": "C11",
+    "panpan": "96",
+    "mixiaowo": "100"
+  },
+  {
+    "hex": "#96869F",
+    "mard": "ZG4",
+    "coco": "GB4",
+    "manman": "ZG4",
+    "panpan": "257",
+    "mixiaowo": "ZG4"
+  },
+  {
+    "hex": "#971937",
+    "mard": "F7",
+    "coco": "C10",
+    "manman": "A6",
+    "panpan": "47",
+    "mixiaowo": "47"
+  },
+  {
+    "hex": "#98A6A8",
+    "mard": "H15",
+    "coco": "B04",
+    "manman": "DH4",
+    "panpan": "201",
+    "mixiaowo": "201"
+  },
+  {
+    "hex": "#9A009B",
+    "mard": "D21",
+    "coco": "J18",
+    "manman": "D35",
+    "panpan": "162",
+    "mixiaowo": "158"
+  },
+  {
+    "hex": "#9A56B4",
+    "mard": "R9",
+    "coco": "L09",
+    "manman": "T2",
+    "panpan": "70",
+    "mixiaowo": "56"
+  },
+  {
+    "hex": "#9A9D94",
+    "mard": "H23",
+    "coco": "B11",
+    "manman": "G11",
+    "panpan": "278",
+    "mixiaowo": "278"
+  },
+  {
+    "hex": "#9BB13A",
+    "mard": "B17",
+    "coco": "F13",
+    "manman": "C18",
+    "panpan": "142",
+    "mixiaowo": "141"
+  },
+  {
+    "hex": "#9C32B2",
+    "mard": "D20",
+    "coco": "J17",
+    "manman": "D34",
+    "panpan": "161",
+    "mixiaowo": "155"
+  },
+  {
+    "hex": "#9C87D6",
+    "mard": "R28",
+    "coco": "S15",
+    "manman": "S10",
+    "panpan": "236",
+    "mixiaowo": "223"
+  },
+  {
+    "hex": "#9CAB5A",
+    "mard": "B32",
+    "coco": "F25",
+    "manman": "G12",
+    "panpan": "287",
+    "mixiaowo": "272"
+  },
+  {
+    "hex": "#9D5B3E",
+    "mard": "G7",
+    "coco": "Z18",
+    "manman": "E7",
+    "panpan": "17",
+    "mixiaowo": "17"
+  },
+  {
+    "hex": "#9EE5B9",
+    "mard": "B28",
+    "coco": "F21",
+    "manman": "R11",
+    "panpan": "269",
+    "mixiaowo": "254"
+  },
+  {
+    "hex": "#9EF780",
+    "mard": "B3",
+    "coco": "F04",
+    "manman": "C7",
+    "panpan": "26",
+    "mixiaowo": "26"
+  },
+  {
+    "hex": "#9F7594",
+    "mard": "M11",
+    "coco": "Y11",
+    "manman": "YX4",
+    "panpan": "176",
+    "mixiaowo": "161"
+  },
+  {
+    "hex": "#9FE4DF",
+    "mard": "R14",
+    "coco": "S1",
+    "manman": "S1",
+    "panpan": "231",
+    "mixiaowo": "231"
+  },
+  {
+    "hex": "#A0E2FB",
+    "mard": "C3",
+    "coco": "H04",
+    "manman": "D2",
+    "panpan": "63",
+    "mixiaowo": "75"
+  },
+  {
+    "hex": "#A45EC7",
+    "mard": "D18",
+    "coco": "J13",
+    "manman": "D27",
+    "panpan": "124",
+    "mixiaowo": "125"
+  },
+  {
+    "hex": "#A56268",
+    "mard": "P23",
+    "coco": "M23",
+    "manman": "P21",
+    "panpan": "181",
+    "mixiaowo": "181"
+  },
+  {
+    "hex": "#A58767",
+    "mard": "M9",
+    "coco": "Y09",
+    "manman": "YX10",
+    "panpan": "170",
+    "mixiaowo": "170"
+  },
+  {
+    "hex": "#A94023",
+    "mard": "G20",
+    "coco": "Z19",
+    "manman": "DH13",
+    "panpan": "199",
+    "mixiaowo": "199"
+  },
+  {
+    "hex": "#A9E5E5",
+    "mard": "C25",
+    "coco": "H28",
+    "manman": "R12",
+    "panpan": "271",
+    "mixiaowo": "256"
+  },
+  {
+    "hex": "#A9F9FC",
+    "mard": "C2",
+    "coco": "H03",
+    "manman": "D1",
+    "panpan": "30",
+    "mixiaowo": "30"
+  },
+  {
+    "hex": "#AACBEF",
+    "mard": "P13",
+    "coco": "M13",
+    "manman": "P17",
+    "panpan": "193",
+    "mixiaowo": "176"
+  },
+  {
+    "hex": "#AB91C0",
+    "mard": "ZG8",
+    "coco": "GB8",
+    "manman": "ZG8",
+    "panpan": "261",
+    "mixiaowo": "ZG8"
+  },
+  {
+    "hex": "#AC7BDE",
+    "mard": "D6",
+    "coco": "J11",
+    "manman": "D14",
+    "panpan": "27",
+    "mixiaowo": "27"
+  },
+  {
+    "hex": "#AD6F3C",
+    "mard": "R21",
+    "coco": "S8",
+    "manman": "S13",
+    "panpan": "234",
+    "mixiaowo": "221"
+  },
+  {
+    "hex": "#ADE946",
+    "mard": "B14",
+    "coco": "F06",
+    "manman": "C15",
+    "panpan": "129",
+    "mixiaowo": "117"
+  },
+  {
+    "hex": "#AEB4F2",
+    "mard": "D1",
+    "coco": "J07",
+    "manman": "D5",
+    "panpan": "46",
+    "mixiaowo": "46"
+  },
+  {
+    "hex": "#AFDCAB",
+    "mard": "P3",
+    "coco": "M03",
+    "manman": "P4",
+    "panpan": "73",
+    "mixiaowo": "66"
+  },
+  {
+    "hex": "#B0A782",
+    "mard": "M6",
+    "coco": "Y06",
+    "manman": "YX1",
+    "panpan": "169",
+    "mixiaowo": "169"
+  },
+  {
+    "hex": "#B0A9AC",
+    "mard": "P2",
+    "coco": "M02",
+    "manman": "P2",
+    "panpan": "55",
+    "mixiaowo": "69"
+  },
+  {
+    "hex": "#B0E792",
+    "mard": "B31",
+    "coco": "F24",
+    "manman": "G7",
+    "panpan": "286",
+    "mixiaowo": "271"
+  },
+  {
+    "hex": "#B38281",
+    "mard": "M8",
+    "coco": "Y08",
+    "manman": "YX14",
+    "panpan": "177",
+    "mixiaowo": "162"
+  },
+  {
+    "hex": "#B4A497",
+    "mard": "M7",
+    "coco": "Y07",
+    "manman": "YX13",
+    "panpan": "171",
+    "mixiaowo": "171"
+  },
+  {
+    "hex": "#B5006D",
+    "mard": "E13",
+    "coco": "K24",
+    "manman": "A21",
+    "panpan": "127",
+    "mixiaowo": "124"
+  },
+  {
+    "hex": "#B6B1BA",
+    "mard": "H3",
+    "coco": "B03",
+    "manman": "F3",
+    "panpan": "13",
+    "mixiaowo": "13"
+  },
+  {
+    "hex": "#B7714A",
+    "mard": "G13",
+    "coco": "Z14",
+    "manman": "E17",
+    "panpan": "115",
+    "mixiaowo": "114"
+  },
+  {
+    "hex": "#B785A1",
+    "mard": "E22",
+    "coco": "K28",
+    "manman": "Q4",
+    "panpan": "252",
+    "mixiaowo": "237"
+  },
+  {
+    "hex": "#B843C5",
+    "mard": "D5",
+    "coco": "J12",
+    "manman": "D13",
+    "panpan": "32",
+    "mixiaowo": "32"
+  },
+  {
+    "hex": "#B88558",
+    "mard": "G21",
+    "coco": "Z24",
+    "manman": "Q8",
+    "panpan": "247",
+    "mixiaowo": "247"
+  },
+  {
+    "hex": "#B90095",
+    "mard": "D13",
+    "coco": "J14",
+    "manman": "D21",
+    "panpan": "103",
+    "mixiaowo": "106"
+  },
+  {
+    "hex": "#B9BAE1",
+    "mard": "D11",
+    "coco": "J06",
+    "manman": "D19",
+    "panpan": "105",
+    "mixiaowo": "104"
+  },
+  {
+    "hex": "#BBCFED",
+    "mard": "C28",
+    "coco": "H31",
+    "manman": "G14",
+    "panpan": "280",
+    "mixiaowo": "265"
+  },
+  {
+    "hex": "#BC0028",
+    "mard": "F8",
+    "coco": "C09",
+    "manman": "A17",
+    "panpan": "81",
+    "mixiaowo": "92"
+  },
+  {
+    "hex": "#BCC6B8",
+    "mard": "M1",
+    "coco": "Y01",
+    "manman": "YX11",
+    "panpan": "168",
+    "mixiaowo": "168"
+  },
+  {
+    "hex": "#BD9DA1",
+    "mard": "E21",
+    "coco": "K27",
+    "manman": "Q2",
+    "panpan": "253",
+    "mixiaowo": "238"
+  },
+  {
+    "hex": "#BEDDFF",
+    "mard": "C21",
+    "coco": "H06",
+    "manman": "IC3",
+    "panpan": "212",
+    "mixiaowo": "212"
+  },
+  {
+    "hex": "#C1444A",
+    "mard": "F19",
+    "coco": "K33",
+    "manman": "Q05",
+    "panpan": "243",
+    "mixiaowo": "243"
+  },
+  {
+    "hex": "#C1BD8D",
+    "mard": "ZG3",
+    "coco": "GB3",
+    "manman": "ZG3",
+    "panpan": "256",
+    "mixiaowo": "ZG3"
+  },
+  {
+    "hex": "#C2F0CC",
+    "mard": "B20",
+    "coco": "G02",
+    "manman": "DH10",
+    "panpan": "192",
+    "mixiaowo": "175"
+  },
+  {
+    "hex": "#C4D4F6",
+    "mard": "D17",
+    "coco": "J05",
+    "manman": "D24",
+    "panpan": "119",
+    "mixiaowo": "128"
+  },
+  {
+    "hex": "#C5B2BC",
+    "mard": "M10",
+    "coco": "Y10",
+    "manman": "YX9",
+    "panpan": "164",
+    "mixiaowo": "164"
+  },
+  {
+    "hex": "#C5E254",
+    "mard": "B29",
+    "coco": "F22",
+    "manman": "R09",
+    "panpan": "268",
+    "mixiaowo": "253"
+  },
+  {
+    "hex": "#C5ED9C",
+    "mard": "B16",
+    "coco": "F03",
+    "manman": "C17",
+    "panpan": "141",
+    "mixiaowo": "133"
+  },
+  {
+    "hex": "#C63478",
+    "mard": "E7",
+    "coco": "K25",
+    "manman": "A12",
+    "panpan": "41",
+    "mixiaowo": "41"
+  },
+  {
+    "hex": "#C77362",
+    "mard": "M14",
+    "coco": "Y14",
+    "manman": "YX3",
+    "panpan": "165",
+    "mixiaowo": "165"
+  },
+  {
+    "hex": "#C8E2FF",
+    "mard": "C23",
+    "coco": "H26",
+    "manman": "R13",
+    "panpan": "263",
+    "mixiaowo": "263"
+  },
+  {
+    "hex": "#C9675E",
+    "mard": "R25",
+    "coco": "S12",
+    "manman": "S14",
+    "panpan": "225",
+    "mixiaowo": "220"
+  },
+  {
+    "hex": "#CACAD4",
+    "mard": "H22",
+    "coco": "A12",
+    "manman": "G2",
+    "panpan": "277",
+    "mixiaowo": "277"
+  },
+  {
+    "hex": "#CAEB7B",
+    "mard": "B13",
+    "coco": "F02",
+    "manman": "C14",
+    "panpan": "128",
+    "mixiaowo": "119"
+  },
+  {
+    "hex": "#CCE1AF",
+    "mard": "B27",
+    "coco": "F20",
+    "manman": "R10",
+    "panpan": "262",
+    "mixiaowo": "262"
+  },
+  {
+    "hex": "#CD9391",
+    "mard": "F20",
+    "coco": "K34",
+    "manman": "R04",
+    "panpan": "275",
+    "mixiaowo": "260"
+  },
+  {
+    "hex": "#CDE55D",
+    "mard": "R19",
+    "coco": "S6",
+    "manman": "S11",
+    "panpan": "227",
+    "mixiaowo": "227"
+  },
+  {
+    "hex": "#CDE8FF",
+    "mard": "C13",
+    "coco": "H01",
+    "manman": "D30",
+    "panpan": "140",
+    "mixiaowo": "142"
+  },
+  {
+    "hex": "#CECDD5",
+    "mard": "H11",
+    "coco": "B01",
+    "manman": "F11",
+    "panpan": "123",
+    "mixiaowo": "121"
+  },
+  {
+    "hex": "#CFD7D3",
+    "mard": "H14",
+    "coco": "B02",
+    "manman": "F12",
+    "panpan": "146",
+    "mixiaowo": "145"
+  },
+  {
+    "hex": "#D0CCAA",
+    "mard": "M5",
+    "coco": "Y05",
+    "manman": "YX6",
+    "panpan": "174",
+    "mixiaowo": "159"
+  },
+  {
+    "hex": "#D19066",
+    "mard": "M13",
+    "coco": "Y13",
+    "manman": "YX8",
+    "panpan": "175",
+    "mixiaowo": "160"
+  },
+  {
+    "hex": "#D293BE",
+    "mard": "R26",
+    "coco": "S13",
+    "manman": "S9",
+    "panpan": "229",
+    "mixiaowo": "229"
+  },
+  {
+    "hex": "#D30022",
+    "mard": "F15",
+    "coco": "C08",
+    "manman": "DH8",
+    "panpan": "204",
+    "mixiaowo": "191"
+  },
+  {
+    "hex": "#D33793",
+    "mard": "E10",
+    "coco": "K23",
+    "manman": "A16",
+    "panpan": "83",
+    "mixiaowo": "94"
+  },
+  {
+    "hex": "#D37C46",
+    "mard": "F18",
+    "coco": "K32",
+    "manman": "Q10",
+    "panpan": "246",
+    "mixiaowo": "246"
+  },
+  {
+    "hex": "#D3DFFA",
+    "mard": "C27",
+    "coco": "H30",
+    "manman": "G13",
+    "panpan": "279",
+    "mixiaowo": "264"
+  },
+  {
+    "hex": "#D50D21",
+    "mard": "R1",
+    "coco": "L01",
+    "manman": "T1",
+    "panpan": "67",
+    "mixiaowo": "52"
+  },
+  {
+    "hex": "#D5B9F8",
+    "mard": "D9",
+    "coco": "J04",
+    "manman": "D17",
+    "panpan": "93",
+    "mixiaowo": "90"
+  },
+  {
+    "hex": "#D5FDFF",
+    "mard": "C14",
+    "coco": "H02",
+    "manman": "D29",
+    "panpan": "139",
+    "mixiaowo": "136"
+  },
+  {
+    "hex": "#D6AA87",
+    "mard": "ZG2",
+    "coco": "GB2",
+    "manman": "ZG2",
+    "panpan": "255",
+    "mixiaowo": "ZG2"
+  },
+  {
+    "hex": "#D7FAA0",
+    "mard": "Y3",
+    "coco": "N03",
+    "manman": "Y3",
+    "panpan": "57",
+    "mixiaowo": "57"
+  },
+  {
+    "hex": "#D8C3D7",
+    "mard": "D19",
+    "coco": "J09",
+    "manman": "D33",
+    "panpan": "153",
+    "mixiaowo": "153"
+  },
+  {
+    "hex": "#D8C7D1",
+    "mard": "E20",
+    "coco": "K26",
+    "manman": "Q1",
+    "panpan": "241",
+    "mixiaowo": "241"
+  },
+  {
+    "hex": "#D8D5CE",
+    "mard": "R12",
+    "coco": "L12",
+    "manman": "T7",
+    "panpan": "160",
+    "mixiaowo": "157"
+  },
+  {
+    "hex": "#D98C39",
+    "mard": "G10",
+    "coco": "Z15",
+    "manman": "B9",
+    "panpan": "87",
+    "mixiaowo": "101"
+  },
+  {
+    "hex": "#D9C7EA",
+    "mard": "P10",
+    "coco": "M10",
+    "manman": "P18",
+    "panpan": "187",
+    "mixiaowo": "187"
+  },
+  {
+    "hex": "#D9D9D9",
+    "mard": "P9",
+    "coco": "M09",
+    "manman": "P13",
+    "panpan": "195",
+    "mixiaowo": "178"
+  },
+  {
+    "hex": "#DAABB3",
+    "mard": "ZG1",
+    "coco": "GB1",
+    "manman": "ZG1",
+    "panpan": "254",
+    "mixiaowo": "ZG1"
+  },
+  {
+    "hex": "#DE9AD4",
+    "mard": "D12",
+    "coco": "J10",
+    "manman": "D20",
+    "panpan": "104",
+    "mixiaowo": "105"
+  },
+  {
+    "hex": "#DFC2F8",
+    "mard": "D26",
+    "coco": "J22",
+    "manman": "R01",
+    "panpan": "273",
+    "mixiaowo": "258"
+  },
+  {
+    "hex": "#E07935",
+    "mard": "G19",
+    "coco": "Z12",
+    "manman": "DH3",
+    "panpan": "208",
+    "mixiaowo": "195"
+  },
+  {
+    "hex": "#E0C593",
+    "mard": "G11",
+    "coco": "Z07",
+    "manman": "E12",
+    "panpan": "112",
+    "mixiaowo": "118"
+  },
+  {
+    "hex": "#E1B383",
+    "mard": "G4",
+    "coco": "Z08",
+    "manman": "E6",
+    "panpan": "19",
+    "mixiaowo": "19"
+  },
+  {
+    "hex": "#E1BCE8",
+    "mard": "E24",
+    "coco": "K30",
+    "manman": "G8",
+    "panpan": "282",
+    "mixiaowo": "267"
+  },
+  {
+    "hex": "#E2677A",
+    "mard": "F9",
+    "coco": "K20",
+    "manman": "A15",
+    "panpan": "82",
+    "mixiaowo": "93"
+  },
+  {
+    "hex": "#E2A9D2",
+    "mard": "ZG7",
+    "coco": "GB7",
+    "manman": "ZG7",
+    "panpan": "260",
+    "mixiaowo": "ZG7"
+  },
+  {
+    "hex": "#E2D3FF",
+    "mard": "D8",
+    "coco": "J03",
+    "manman": "D16",
+    "panpan": "94",
+    "mixiaowo": "89"
+  },
+  {
+    "hex": "#E2FCB1",
+    "mard": "B30",
+    "coco": "F23",
+    "manman": "G6",
+    "panpan": "285",
+    "mixiaowo": "270"
+  },
+  {
+    "hex": "#E3D2BC",
+    "mard": "M4",
+    "coco": "Y04",
+    "manman": "YX15",
+    "panpan": "167",
+    "mixiaowo": "167"
+  },
+  {
+    "hex": "#E3E1EE",
+    "mard": "D16",
+    "coco": "J01",
+    "manman": "D23",
+    "panpan": "118",
+    "mixiaowo": "126"
+  },
+  {
+    "hex": "#E4A89F",
+    "mard": "P22",
+    "coco": "M22",
+    "manman": "P16",
+    "panpan": "189",
+    "mixiaowo": "189"
+  },
+  {
+    "hex": "#E54B4F",
+    "mard": "F25",
+    "coco": "K39",
+    "manman": "G10",
+    "panpan": "284",
+    "mixiaowo": "269"
+  },
+  {
+    "hex": "#E698AA",
+    "mard": "F24",
+    "coco": "K38",
+    "manman": "G9",
+    "panpan": "283",
+    "mixiaowo": "268"
+  },
+  {
+    "hex": "#E69C79",
+    "mard": "F17",
+    "coco": "K31",
+    "manman": "Q9",
+    "panpan": "245",
+    "mixiaowo": "245"
+  },
+  {
+    "hex": "#E6B483",
+    "mard": "G9",
+    "coco": "Z09",
+    "manman": "E10",
+    "panpan": "91",
+    "mixiaowo": "102"
+  },
+  {
+    "hex": "#E6C9B7",
+    "mard": "A23",
+    "coco": "E12",
+    "manman": "R08",
+    "panpan": "274",
+    "mixiaowo": "259"
+  },
+  {
+    "hex": "#E6EE31",
+    "mard": "B1",
+    "coco": "F05",
+    "manman": "C1",
+    "panpan": "48",
+    "mixiaowo": "48"
+  },
+  {
+    "hex": "#E6EE49",
+    "mard": "B18",
+    "coco": "F07",
+    "manman": "C19",
+    "panpan": "147",
+    "mixiaowo": "147"
+  },
+  {
+    "hex": "#E6EEF2",
+    "mard": "P12",
+    "coco": "M12",
+    "manman": "P12",
+    "panpan": "190",
+    "mixiaowo": "190"
+  },
+  {
+    "hex": "#E7002F",
+    "mard": "F5",
+    "coco": "C07",
+    "manman": "A5",
+    "panpan": "5",
+    "mixiaowo": "5"
+  },
+  {
+    "hex": "#E7D6DB",
+    "mard": "H8",
+    "coco": "A09",
+    "manman": "F8",
+    "panpan": "85",
+    "mixiaowo": "86"
+  },
+  {
+    "hex": "#E8649E",
+    "mard": "E4",
+    "coco": "K21",
+    "manman": "A9",
+    "panpan": "6",
+    "mixiaowo": "6"
+  },
+  {
+    "hex": "#E8C7B4",
+    "mard": "R20",
+    "coco": "S7",
+    "manman": "S6",
+    "panpan": "230",
+    "mixiaowo": "230"
+  },
+  {
+    "hex": "#E8FFE7",
+    "mard": "C1",
+    "coco": "G01",
+    "manman": "C8",
+    "panpan": "64",
+    "mixiaowo": "76"
+  },
+  {
+    "hex": "#E970CC",
+    "mard": "E9",
+    "coco": "K18",
+    "manman": "A14",
+    "panpan": "98",
+    "mixiaowo": "95"
+  },
+  {
+    "hex": "#E987EA",
+    "mard": "Y5",
+    "coco": "N05",
+    "manman": "Y5",
+    "panpan": "61",
+    "mixiaowo": "61"
+  },
+  {
+    "hex": "#E99C17",
+    "mard": "G6",
+    "coco": "Z11",
+    "manman": "B8",
+    "panpan": "50",
+    "mixiaowo": "50"
+  },
+  {
+    "hex": "#E9EC91",
+    "mard": "Q2",
+    "coco": "W4",
+    "manman": "W4",
+    "panpan": "111",
+    "mixiaowo": "W4"
+  },
+  {
+    "hex": "#EA8CB1",
+    "mard": "R27",
+    "coco": "S14",
+    "manman": "S8",
+    "panpan": "232",
+    "mixiaowo": "232"
+  },
+  {
+    "hex": "#EB9270",
+    "mard": "P7",
+    "coco": "M07",
+    "manman": "P6",
+    "panpan": "159",
+    "mixiaowo": "68"
+  },
+  {
+    "hex": "#EBDAFC",
+    "mard": "D23",
+    "coco": "J02",
+    "manman": "IC8",
+    "panpan": "217",
+    "mixiaowo": "217"
+  },
+  {
+    "hex": "#ECBEBF",
+    "mard": "P21",
+    "coco": "M20",
+    "manman": "P20",
+    "panpan": "180",
+    "mixiaowo": "188"
+  },
+  {
+    "hex": "#EDB045",
+    "mard": "G5",
+    "coco": "Z10",
+    "manman": "B7",
+    "panpan": "43",
+    "mixiaowo": "43"
+  },
+  {
+    "hex": "#EDEDED",
+    "mard": "H9",
+    "coco": "A08",
+    "manman": "F10",
+    "panpan": "95",
+    "mixiaowo": "87"
+  },
+  {
+    "hex": "#EE8C3E",
+    "mard": "P5",
+    "coco": "M05",
+    "manman": "P3",
+    "panpan": "56",
+    "mixiaowo": "63"
+  },
+  {
+    "hex": "#EEE9EA",
+    "mard": "H10",
+    "coco": "A10",
+    "manman": "F9",
+    "panpan": "86",
+    "mixiaowo": "88"
+  },
+  {
+    "hex": "#EEFCA5",
+    "mard": "B24",
+    "coco": "F01",
+    "manman": "IC5",
+    "panpan": "222",
+    "mixiaowo": "207"
+  },
+  {
+    "hex": "#F0D958",
+    "mard": "P8",
+    "coco": "M08",
+    "manman": "P7",
+    "panpan": "158",
+    "mixiaowo": "67"
+  },
+  {
+    "hex": "#F13D74",
+    "mard": "E6",
+    "coco": "K22",
+    "manman": "A11",
+    "panpan": "20",
+    "mixiaowo": "20"
+  },
+  {
+    "hex": "#F1EDED",
+    "mard": "H17",
+    "coco": "A07",
+    "manman": "IC6",
+    "panpan": "214",
+    "mixiaowo": "214"
+  },
+  {
+    "hex": "#F2A5E8",
+    "mard": "Q1",
+    "coco": "W3",
+    "manman": "W3",
+    "panpan": "109",
+    "mixiaowo": "W3"
+  },
+  {
+    "hex": "#F2D9BA",
+    "mard": "G16",
+    "coco": "Z04",
+    "manman": "E20",
+    "panpan": "134",
+    "mixiaowo": "138"
+  },
+  {
+    "hex": "#F35744",
+    "mard": "F13",
+    "coco": "C04",
+    "manman": "A24",
+    "panpan": "148",
+    "mixiaowo": "148"
+  },
+  {
+    "hex": "#F3C1C0",
+    "mard": "R24",
+    "coco": "S11",
+    "manman": "S4",
+    "panpan": "228",
+    "mixiaowo": "228"
+  },
+  {
+    "hex": "#F3ECC9",
+    "mard": "P11",
+    "coco": "M11",
+    "manman": "P9",
+    "panpan": "185",
+    "mixiaowo": "185"
+  },
+  {
+    "hex": "#F4C3A5",
+    "mard": "G3",
+    "coco": "Z06",
+    "manman": "E5",
+    "panpan": "80",
+    "mixiaowo": "85"
+  },
+  {
+    "hex": "#F4D738",
+    "mard": "A5",
+    "coco": "D03",
+    "manman": "B4",
+    "panpan": "74",
+    "mixiaowo": "79"
+  },
+  {
+    "hex": "#F4F57D",
+    "mard": "A22",
+    "coco": "E11",
+    "manman": "R06",
+    "panpan": "270",
+    "mixiaowo": "255"
+  },
+  {
+    "hex": "#F551A2",
+    "mard": "E5",
+    "coco": "K19",
+    "manman": "A10",
+    "panpan": "40",
+    "mixiaowo": "40"
+  },
+  {
+    "hex": "#F5ECD2",
+    "mard": "H13",
+    "coco": "A06",
+    "manman": "E23",
+    "panpan": "145",
+    "mixiaowo": "146"
+  },
+  {
+    "hex": "#F67E66",
+    "mard": "F23",
+    "coco": "K37",
+    "manman": "R05",
+    "panpan": "264",
+    "mixiaowo": "249"
+  },
+  {
+    "hex": "#F6EFE2",
+    "mard": "H19",
+    "coco": "A05",
+    "manman": "IC11",
+    "panpan": "209",
+    "mixiaowo": "209"
+  },
+  {
+    "hex": "#F74941",
+    "mard": "F3",
+    "coco": "C03",
+    "manman": "A3",
+    "panpan": "53",
+    "mixiaowo": "72"
+  },
+  {
+    "hex": "#F77C31",
+    "mard": "A10",
+    "coco": "D07",
+    "manman": "B12",
+    "panpan": "89",
+    "mixiaowo": "96"
+  },
+  {
+    "hex": "#F78FC3",
+    "mard": "E12",
+    "coco": "K16",
+    "manman": "A20",
+    "panpan": "126",
+    "mixiaowo": "112"
+  },
+  {
+    "hex": "#F7B4C6",
+    "mard": "F21",
+    "coco": "K35",
+    "manman": "R03",
+    "panpan": "266",
+    "mixiaowo": "251"
+  },
+  {
+    "hex": "#F7F8A2",
+    "mard": "A24",
+    "coco": "E13",
+    "manman": "G3",
+    "panpan": "288",
+    "mixiaowo": "273"
+  },
+  {
+    "hex": "#F8C7C9",
+    "mard": "E15",
+    "coco": "K04",
+    "manman": "A23",
+    "panpan": "135",
+    "mixiaowo": "139"
+  },
+  {
+    "hex": "#F8EC31",
+    "mard": "R4",
+    "coco": "L04",
+    "manman": "N3",
+    "panpan": "21",
+    "mixiaowo": "21"
+  },
+  {
+    "hex": "#F92F83",
+    "mard": "R2",
+    "coco": "L02",
+    "manman": "N1",
+    "panpan": "24",
+    "mixiaowo": "24"
+  },
+  {
+    "hex": "#FAF4C8",
+    "mard": "A1",
+    "coco": "E02",
+    "manman": "E2",
+    "panpan": "65",
+    "mixiaowo": "77"
+  },
+  {
+    "hex": "#FBED56",
+    "mard": "A4",
+    "coco": "E07",
+    "manman": "B3",
+    "panpan": "3",
+    "mixiaowo": "3"
+  },
+  {
+    "hex": "#FC283C",
+    "mard": "F4",
+    "coco": "C06",
+    "manman": "A4",
+    "panpan": "54",
+    "mixiaowo": "73"
+  },
+  {
+    "hex": "#FC3D46",
+    "mard": "F2",
+    "coco": "C02",
+    "manman": "A2",
+    "panpan": "31",
+    "mixiaowo": "31"
+  },
+  {
+    "hex": "#FCDDD2",
+    "mard": "E11",
+    "coco": "K02",
+    "manman": "A19",
+    "panpan": "125",
+    "mixiaowo": "131"
+  },
+  {
+    "hex": "#FCF7F8",
+    "mard": "P1",
+    "coco": "M01",
+    "manman": "P1",
+    "panpan": "71",
+    "mixiaowo": "62"
+  },
+  {
+    "hex": "#FCF9E0",
+    "mard": "G15",
+    "coco": "Z03",
+    "manman": "E19",
+    "panpan": "133",
+    "mixiaowo": "143"
+  },
+  {
+    "hex": "#FD4E6A",
+    "mard": "F12",
+    "coco": "C01",
+    "manman": "A22",
+    "panpan": "136",
+    "mixiaowo": "134"
+  },
+  {
+    "hex": "#FD543D",
+    "mard": "A14",
+    "coco": "C05",
+    "manman": "B14",
+    "panpan": "138",
+    "mixiaowo": "135"
+  },
+  {
+    "hex": "#FD6FB4",
+    "mard": "Y1",
+    "coco": "N01",
+    "manman": "Y1",
+    "panpan": "59",
+    "mixiaowo": "59"
+  },
+  {
+    "hex": "#FD7C72",
+    "mard": "A19",
+    "coco": "K10",
+    "manman": "IC15",
+    "panpan": "218",
+    "mixiaowo": "218"
+  },
+  {
+    "hex": "#FD8324",
+    "mard": "R3",
+    "coco": "L03",
+    "manman": "N2",
+    "panpan": "22",
+    "mixiaowo": "22"
+  },
+  {
+    "hex": "#FD957B",
+    "mard": "F1",
+    "coco": "K08",
+    "manman": "A1",
+    "panpan": "35",
+    "mixiaowo": "35"
+  },
+  {
+    "hex": "#FDC0D0",
+    "mard": "F22",
+    "coco": "K36",
+    "manman": "R02",
+    "panpan": "272",
+    "mixiaowo": "257"
+  },
+  {
+    "hex": "#FDD3CC",
+    "mard": "E1",
+    "coco": "K03",
+    "manman": "E1",
+    "panpan": "18",
+    "mixiaowo": "18"
+  },
+  {
+    "hex": "#FDFBFF",
+    "mard": "H1",
+    "coco": "A02",
+    "manman": "F1",
+    "panpan": "15",
+    "mixiaowo": "15"
+  },
+  {
+    "hex": "#FE8B4C",
+    "mard": "A7",
+    "coco": "D08",
+    "manman": "B6",
+    "panpan": "4",
+    "mixiaowo": "4"
+  },
+  {
+    "hex": "#FE9F72",
+    "mard": "A12",
+    "coco": "K09",
+    "manman": "A18",
+    "panpan": "99",
+    "mixiaowo": "110"
+  },
+  {
+    "hex": "#FEA324",
+    "mard": "P17",
+    "coco": "M17",
+    "manman": "P19",
+    "panpan": "179",
+    "mixiaowo": "179"
+  },
+  {
+    "hex": "#FEA49F",
+    "mard": "P4",
+    "coco": "M04",
+    "manman": "P5",
+    "panpan": "72",
+    "mixiaowo": "64"
+  },
+  {
+    "hex": "#FEAC4C",
+    "mard": "A6",
+    "coco": "D05",
+    "manman": "B5",
+    "panpan": "29",
+    "mixiaowo": "29"
+  },
+  {
+    "hex": "#FEB481",
+    "mard": "Y2",
+    "coco": "N02",
+    "manman": "Y2",
+    "panpan": "60",
+    "mixiaowo": "60"
+  },
+  {
+    "hex": "#FEB872",
+    "mard": "R23",
+    "coco": "S10",
+    "manman": "S12",
+    "panpan": "224",
+    "mixiaowo": "219"
+  },
+  {
+    "hex": "#FEB89F",
+    "mard": "P18",
+    "coco": "M18",
+    "manman": "P11",
+    "panpan": "194",
+    "mixiaowo": "177"
+  },
+  {
+    "hex": "#FEBAD5",
+    "mard": "E19",
+    "coco": "K14",
+    "manman": "IC12",
+    "panpan": "215",
+    "mixiaowo": "215"
+  },
+  {
+    "hex": "#FEBE7D",
+    "mard": "A18",
+    "coco": "D02",
+    "manman": "IC14",
+    "panpan": "223",
+    "mixiaowo": "208"
+  },
+  {
+    "hex": "#FEBECF",
+    "mard": "P20",
+    "coco": "M21",
+    "manman": "P15",
+    "panpan": "188",
+    "mixiaowo": "180"
+  },
+  {
+    "hex": "#FEBF45",
+    "mard": "P16",
+    "coco": "M16",
+    "manman": "P14",
+    "panpan": "182",
+    "mixiaowo": "182"
+  },
+  {
+    "hex": "#FEC0DF",
+    "mard": "E2",
+    "coco": "K15",
+    "manman": "A7",
+    "panpan": "38",
+    "mixiaowo": "38"
+  },
+  {
+    "hex": "#FEC2A6",
+    "mard": "F16",
+    "coco": "K06",
+    "manman": "IC10",
+    "panpan": "211",
+    "mixiaowo": "211"
+  },
+  {
+    "hex": "#FEFF8B",
+    "mard": "A3",
+    "coco": "E05",
+    "manman": "B2",
+    "panpan": "28",
+    "mixiaowo": "28"
+  },
+  {
+    "hex": "#FEFFFF",
+    "mard": "H2",
+    "coco": "A01",
+    "manman": "F2",
+    "panpan": "1",
+    "mixiaowo": "1"
+  },
+  {
+    "hex": "#FF995B",
+    "mard": "A9",
+    "coco": "D06",
+    "manman": "B11",
+    "panpan": "90",
+    "mixiaowo": "97"
+  },
+  {
+    "hex": "#FFA9AD",
+    "mard": "F14",
+    "coco": "K07",
+    "manman": "A25",
+    "panpan": "154",
+    "mixiaowo": "154"
+  },
+  {
+    "hex": "#FFB7E7",
+    "mard": "E3",
+    "coco": "K17",
+    "manman": "A8",
+    "panpan": "62",
+    "mixiaowo": "74"
+  },
+  {
+    "hex": "#FFC365",
+    "mard": "A13",
+    "coco": "D04",
+    "manman": "B13",
+    "panpan": "131",
+    "mixiaowo": "116"
+  },
+  {
+    "hex": "#FFC4AA",
+    "mard": "G2",
+    "coco": "Z05",
+    "manman": "E4",
+    "panpan": "49",
+    "mixiaowo": "49"
+  },
+  {
+    "hex": "#FFC7DB",
+    "mard": "E18",
+    "coco": "K13",
+    "manman": "IC13",
+    "panpan": "210",
+    "mixiaowo": "210"
+  },
+  {
+    "hex": "#FFC830",
+    "mard": "A26",
+    "coco": "E15",
+    "manman": "G5",
+    "panpan": "290",
+    "mixiaowo": "275"
+  },
+  {
+    "hex": "#FFC890",
+    "mard": "G12",
+    "coco": "Z13",
+    "manman": "E13",
+    "panpan": "113",
+    "mixiaowo": "127"
+  },
+  {
+    "hex": "#FFD1BA",
+    "mard": "E14",
+    "coco": "K05",
+    "manman": "E21",
+    "panpan": "137",
+    "mixiaowo": "140"
+  },
+  {
+    "hex": "#FFD568",
+    "mard": "A20",
+    "coco": "E09",
+    "manman": "Q6",
+    "panpan": "242",
+    "mixiaowo": "242"
+  },
+  {
+    "hex": "#FFD67D",
+    "mard": "A25",
+    "coco": "E14",
+    "manman": "G4",
+    "panpan": "289",
+    "mixiaowo": "274"
+  },
+  {
+    "hex": "#FFDA45",
+    "mard": "A8",
+    "coco": "E08",
+    "manman": "B10",
+    "panpan": "88",
+    "mixiaowo": "98"
+  },
+  {
+    "hex": "#FFDB4C",
+    "mard": "R10",
+    "coco": "L10",
+    "manman": "L2",
+    "panpan": "156",
+    "mixiaowo": "53"
+  },
+  {
+    "hex": "#FFDBE9",
+    "mard": "E8",
+    "coco": "K12",
+    "manman": "A13",
+    "panpan": "84",
+    "mixiaowo": "103"
+  },
+  {
+    "hex": "#FFDD99",
+    "mard": "A11",
+    "coco": "D01",
+    "manman": "E11",
+    "panpan": "100",
+    "mixiaowo": "109"
+  },
+  {
+    "hex": "#FFE2CE",
+    "mard": "G1",
+    "coco": "Z02",
+    "manman": "E3",
+    "panpan": "76",
+    "mixiaowo": "81"
+  },
+  {
+    "hex": "#FFE2EA",
+    "mard": "E17",
+    "coco": "K11",
+    "manman": "IC7",
+    "panpan": "220",
+    "mixiaowo": "205"
+  },
+  {
+    "hex": "#FFE36E",
+    "mard": "A17",
+    "coco": "E06",
+    "manman": "IC9",
+    "panpan": "213",
+    "mixiaowo": "213"
+  },
+  {
+    "hex": "#FFE395",
+    "mard": "A21",
+    "coco": "E10",
+    "manman": "R07",
+    "panpan": "276",
+    "mixiaowo": "261"
+  },
+  {
+    "hex": "#FFE4CC",
+    "mard": "G18",
+    "coco": "Z01",
+    "manman": "DH5",
+    "panpan": "203",
+    "mixiaowo": "203"
+  },
+  {
+    "hex": "#FFEBFA",
+    "mard": "Q4",
+    "coco": "W2",
+    "manman": "W2",
+    "panpan": "110",
+    "mixiaowo": "W2"
+  },
+  {
+    "hex": "#FFEBFB",
+    "mard": "R11",
+    "coco": "L11",
+    "manman": "T6",
+    "panpan": "151",
+    "mixiaowo": "151"
+  },
+  {
+    "hex": "#FFF365",
+    "mard": "A15",
+    "coco": "E04",
+    "manman": "B15",
+    "panpan": "150",
+    "mixiaowo": "150"
+  },
+  {
+    "hex": "#FFF3EB",
+    "mard": "E16",
+    "coco": "K01",
+    "manman": "IC2",
+    "panpan": "221",
+    "mixiaowo": "206"
+  },
+  {
+    "hex": "#FFF5ED",
+    "mard": "H12",
+    "coco": "A04",
+    "manman": "E18",
+    "panpan": "132",
+    "mixiaowo": "144"
+  },
+  {
+    "hex": "#FFFBE1",
+    "mard": "H21",
+    "coco": "A11",
+    "manman": "G1",
+    "panpan": "291",
+    "mixiaowo": "276"
+  },
+  {
+    "hex": "#FFFDF0",
+    "mard": "H18",
+    "coco": "A03",
+    "manman": "IC1",
+    "panpan": "219",
+    "mixiaowo": "204"
+  },
+  {
+    "hex": "#FFFEEC",
+    "mard": "P19",
+    "coco": "M19",
+    "manman": "P10",
+    "panpan": "186",
+    "mixiaowo": "186"
+  },
+  {
+    "hex": "#FFFF00",
+    "mard": "Q3",
+    "coco": "W1",
+    "manman": "W1",
+    "panpan": "107",
+    "mixiaowo": "W1"
+  },
+  {
+    "hex": "#FFFF9F",
+    "mard": "A16",
+    "coco": "E03",
+    "manman": "IC04",
+    "panpan": "216",
+    "mixiaowo": "216"
+  },
+  {
+    "hex": "#FFFFD5",
+    "mard": "A2",
+    "coco": "E01",
+    "manman": "B1",
+    "panpan": "2",
+    "mixiaowo": "2"
+  },
+  {
+    "hex": "#FFFFFF",
+    "mard": "T1",
+    "coco": "L14",
+    "manman": "L6",
+    "panpan": "155",
+    "mixiaowo": "51"
+  }
+]

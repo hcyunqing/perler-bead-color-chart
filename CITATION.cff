@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: perler-bead-color-chart
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - name: 豆画 (Douhua)
+    website: 'https://douhua.7a.ink'
+version: 1.0.0
+date-released: '2026-11-13'
+license: CC-BY-4.0
+keywords:
+  - perler beads
+  - fuse beads
+  - color chart
+  - MARD
+  - COCO
+  - color mapping
+abstract: >-
+  A cross-brand color code mapping dataset for perler beads (fuse
+  beads), covering 291 colors across five mainstream brands (MARD,
+  COCO, Manman, Panpan, Mixiaowo) with standard HEX values, in CSV
+  and JSON formats.
